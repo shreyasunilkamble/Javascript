@@ -1,0 +1,26 @@
+Console and operators
+
+//Console
+
+1. console.log() : use to log output
+
+2.console.info() : print info on the console
+
+3.console.warn() : print warning on th console
+
+4. console.error() : print error on th console
+
+5. console.clear() : clear the console
+
+
+//Operators
+
+1]Arithmetic Operators
+
+a. addition : (+)
+b. substraction : (-)
+c. multiplication : (*)
+d. division : (/)
+e. modulus : (%)
+
+
