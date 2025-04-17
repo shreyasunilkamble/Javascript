@@ -1,0 +1,22 @@
+Data has mainly two types
+
+//primitive data
+
+1. Number = e.g : 11,1,5
+
+2. String = collection of chars e.g : "shreya" or 'a'
+
+3.Boolean = e.g : true,false
+
+4. Null = no value e.g : let a = Null
+
+5. Undefined = e.g : let a
+
+
+//Non-primitive data
+
+1. Object = e.g : {}
+
+2. Array = e.g : []
+
+3. Function = e.g : ()
