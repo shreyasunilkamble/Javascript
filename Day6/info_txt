@@ -1,4 +1,4 @@
-Logical operators : AND , OR , NOT
+//Logical operators : AND , OR , NOT
 
 1] LOGICAL AND(&&) : 
    input
@@ -20,3 +20,12 @@ Logical operators : AND , OR , NOT
     input
     !TRUE => FALSE 
     !FALSE => TRUE
+
+   
+
+//Ternary operators
+
+result =  condition ? "yes" : "no"
+
+if condition true then first part will execute (yes)
+otherwise second part will execute (no)
