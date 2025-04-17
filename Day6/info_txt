@@ -1,0 +1,22 @@
+Logical operators : AND , OR , NOT
+
+1] LOGICAL AND(&&) : 
+   input
+   A && B => res
+   T && T => T
+   T && F => F
+   F && T => F
+   F && F => F
+
+2] LOGICAL OR(||) :
+   input
+    A || B => res
+    T || T => T
+    T || F => T
+    F || T => T
+    F || F => F
+
+3] LOGICAL NOT(!) :
+    input
+    !TRUE => FALSE 
+    !FALSE => TRUE
