@@ -1,0 +1,43 @@
+Assignment Operators:
+1] = : assignment Operator
+    eg.let a=10
+
+2] Addition assignment operator(+=)
+    eg.let x=5
+    x+=4   //x=x+4
+
+3] Substraction assignment operator(-=)
+    eg.let b=3
+    b-=2  //x=x-2
+
+4] Multiplication assignment operator(*=)
+    eg. let m=6
+    m*=5  //m=m*5
+
+5] Division assignment operator(/=)
+   eg. let n=8
+   n/=4   //n=n/4
+
+6] Modulus assignment operator(%=)
+   eg. let r=12
+   t%=2   //t=t%2
+
+
+
+Comparison Operators: every time boolean values(TRUE FALSE)
+
+1] Double equal:(==) only check value of variable
+
+2] Not equal:(!=)
+
+3] Strictly equal/triple equal: (===) check type and value of variable
+
+4] Strictly not equal: (!==)
+
+5] Greater than: (>)
+
+6] Less than: (<)
+
+7] Greater than or equal to: (>=)
+
+8] Less than or equal to: (<=)
