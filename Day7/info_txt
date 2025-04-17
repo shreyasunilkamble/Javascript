@@ -1,0 +1,12 @@
+//Document keyword : document object is a global object
+
+console.log(document): we get whole html page
+
+//when we write document.title we get title of page
+
+//document.title="random value": we can change title of page
+  eg. document.title="easycode"
+
+// Method of document
+
+  document.writeln()
