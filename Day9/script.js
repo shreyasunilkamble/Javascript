@@ -16,10 +16,19 @@
 
 
 
-let num = parseInt(prompt("enter the number"));
+// let num = parseInt(prompt("enter the number"));
 
-if(num % 2 == 0){
-    console.log(num + "these is even number ")
+// if(num % 2 == 0){
+//     console.log(num + "these is even number ")
+// }else{
+//     console.log(num + "these is odd number ")
+// }
+
+
+let num = -12
+
+if(num > 0){
+    console.log("number is positive")
 }else{
-    console.log(num + "these is odd number ")
+    console.log("number is negative")
 }
