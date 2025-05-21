@@ -1,0 +1,26 @@
+array : array is the collection on values
+
+
+let cars = ['thar','bugati','swift']
+
+console.log(cars[0])
+console.log(cars[1])
+console.log(cars[2])
+console.log(cars[3]) =  give undefined
+
+index = index always starts with ZERO
+
+arr.length = returns the length of an array
+
+
+
+METHODS : 
+
+arr.push() : = add value in end of the array
+
+arr.unshift() : = add value in start of the array
+
+arr.pop() : = remove last element of the array
+
+arr.shift() : = remove start element of the array
+
